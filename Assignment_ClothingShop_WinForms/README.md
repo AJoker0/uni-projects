@@ -31,9 +31,7 @@ This is a C# WinForms application built for managing products in a clothing stor
 
 ## 📸 Screenshot
 
-![App Screenshot](relative/path/to/screenshot.png)
-
-> Tip: Replace this with your own screenshot or screen recording.
+![App Screenshot](src="https://github.com/user-attachments/assets/133f4e6e-cc55-49ed-8d0f-807a6ac21bdd")
 
 ---
 
