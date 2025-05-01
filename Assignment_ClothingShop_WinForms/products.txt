@@ -1,0 +1,6 @@
+Jacket;Slim;Blue;Cotton;XXL;Gucci;99
+Jacket;Slim;Blue;Cotton;XXL;Gucci;99
+Shirt;Loose;Grey;Cotton;XXL;Bershka;70
+Pants;Baggy;Grey;Cotton;XL;Zara;35
+Socks;Slim;White;Cotton;L;HM;10
+Jeans;Baggy;Platinum;Cotton;XXL;Balenciaga;99
